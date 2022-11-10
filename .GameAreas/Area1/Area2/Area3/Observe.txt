@@ -1,0 +1,4 @@
+-------------------------------------
+Use "./" to activate any scripts (Green Text)
+Use ". ./" to utilize any scripts that start with ~
+-------------------------------------

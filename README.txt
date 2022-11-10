@@ -4,4 +4,4 @@ Welcome to LARK
 Name of game : ___
 Developed by : Grifin Butler
 Narrative :
-Instructions :
+Instructions : Start the game by typing in ". ./Start.sh"
