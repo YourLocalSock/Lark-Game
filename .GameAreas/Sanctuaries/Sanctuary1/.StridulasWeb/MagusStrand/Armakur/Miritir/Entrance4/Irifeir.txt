@@ -1,0 +1,13 @@
+---------------------------------------
+Irifeir: Good! Like that!
+Irifeir: Now I want you to find the center of my web.
+Irifeir: A few locations will need you to use ls -l.
+Irifeir: But there is another part of your ls spell that I want you to use.
+Irifeir: If you were to use ls and then the name of a nearby location, I can look into it for you.
+Irifeir: You can even stack then onto each other.
+Irifier: For instance, our current location could be looked at from the Magus Strand as:
+
+ls Armakur/Miritir/Entrance4
+
+Irifeir: The quickest way to the center has 5 moves, good luck.
+---------------------------------------
