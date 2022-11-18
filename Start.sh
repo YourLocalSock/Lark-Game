@@ -16,7 +16,7 @@ echo "use cat to view files with a .txt extension."
 echo "--------------------------------------"
 
 #use . ./Start.sh
-cd .GameAreas/StartingArea/Unknown
+cd .GameAreas/Act_1/StartingArea/Unknown
 
-#for timer
-# exec a second script in the background ./script&
+#remove file the start of the Resplendency_Act1 Dialogue
+#remove the path directory in Sanctuary2

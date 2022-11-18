@@ -11,9 +11,9 @@ read response
 case $response in
 	[Y]|[y])
 		echo "Okay here we go."
-		# change directory to Resplendency-Act1
+		cd ../../../.Resplendency_Act1
 		echo "You have entered the Resplendency"
-		echo "You have __ moves to reach the end"
+		echo "You have 15 moves to reach the end"
 		;;
 
 	[A-X]|[Z]|[a-x]|[z]|[1-9]|*)
