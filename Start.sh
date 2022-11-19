@@ -19,4 +19,6 @@ echo "--------------------------------------"
 cd .GameAreas/Act_1/StartingArea/Unknown
 
 #remove file the start of the Resplendency_Act1 Dialogue
+rm /GameDirectory/GameAreas/Act_1/Sandtuary1/.StridulasWeb/MagusStrand/~Irifeir_Dialogue.sh | 2>.error.txt
+
 #remove the path directory in Sanctuary2
