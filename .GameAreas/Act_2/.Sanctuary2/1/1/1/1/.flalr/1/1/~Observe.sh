@@ -30,4 +30,5 @@ echo "//Dialogue leading into the practice"
 echo "----------------------------------"
 
 #change directories into the second practice area
+cp -a ../../../../../../../../.PracticeArea ../../../../../../../../PracticeArea
 cd ../../../../../../../../PracticeArea

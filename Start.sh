@@ -15,10 +15,10 @@ echo "Use ls to look around."
 echo "use cat to view files with a .txt extension."
 echo "--------------------------------------"
 
-#use . ./Start.sh
-cd .GameAreas/Act_1/StartingArea/Unknown
-
-#remove file the start of the Resplendency_Act1 Dialogue
-rm /GameDirectory/GameAreas/Act_1/Sandtuary1/.StridulasWeb/MagusStrand/~Irifeir_Dialogue.sh | 2>.error.txt
+#remove file from the start of the Resplendency_Act1 Dialogue
+rm /GameDirectory/GameAreas/Act_1/Sanctuary1/.StrudulasWeb/MagusStrand/~Irifeir_Dialogue.sh || true
 
 #remove the path directory in Sanctuary2
+
+#use . ./Start.sh
+cd .GameAreas/Act_1/StartingArea/Unknown

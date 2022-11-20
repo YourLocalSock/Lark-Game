@@ -1,8 +1,8 @@
 #!/bin/bash
 if [ -f File1 ]
  then
-	if [ -f SharpednedStone ]
+	if [ -f File2 ]
 	 then
-		cp -a .1 Next_Room
+		cp -a .Exit 1
 	 fi
  fi
