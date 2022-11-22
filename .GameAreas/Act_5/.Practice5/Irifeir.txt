@@ -1,0 +1,4 @@
+----------------------------------
+Irifeir speaking of the Lines and how they tend to make their dens in hidden areas
+Introduction of the ls -a command and vim
+----------------------------------

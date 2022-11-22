@@ -16,7 +16,7 @@ echo "use cat to view files with a .txt extension."
 echo "--------------------------------------"
 
 #remove file from the start of the Resplendency_Act1 Dialogue
-rm /GameDirectory/GameAreas/Act_1/Sanctuary1/.StrudulasWeb/MagusStrand/~Irifeir_Dialogue.sh || true
+rm /GameDirectory/GameAreas/Act_1/Sanctuary1/.StrudulasWeb/MagusStrand/~Irifeir_Dialogue.sh 1>/dev/null
 
 #remove the path directory in Sanctuary2
 

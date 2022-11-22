@@ -1,7 +1,4 @@
 #!/bin/bash
 echo "-------------------------------"
+echo "Closing dialogue"
 echo "-------------------------------"
-
-cp -a .~Resplendency.sh ~Resplendency.sh
-chmod o+x ~Resplendency.sh
-rm Finish.sh
