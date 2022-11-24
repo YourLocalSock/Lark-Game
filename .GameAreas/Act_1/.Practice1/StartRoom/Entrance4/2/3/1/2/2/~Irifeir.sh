@@ -18,5 +18,6 @@ echo "Irifeir: All of this was to teach you what you needed to use to get the th
 echo "Irifeir: When you are all set here, meet me at the Magus Strand again."
 echo "--------------------------------------------"
 
-cd ../../../../../
-cp ../../../.~Irifeir_Dialogue2_Bakup.sh ../../../~Irifeir_Dialogue.sh
+cd ../../../../../../../../Sanctuary1/.StridulasWeb/MagusStrand
+cp -a .~Irifeir_Dialogue2_Bakup.sh ~Irifeir_Dialogue.sh
+cd Armakur/Miritir

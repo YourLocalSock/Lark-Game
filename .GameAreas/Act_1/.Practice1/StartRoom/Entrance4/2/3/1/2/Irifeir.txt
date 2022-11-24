@@ -1,0 +1,3 @@
+--------------------------------
+Irifier telling the player to send him into a room with read only permissions to perform an activity
+--------------------------------
