@@ -1,3 +1,5 @@
 -------------------------------
 Dialogue from Donaktralda telling the player how to use the Head Command
+
+Use "head [file]" to look at the first 10 lines of a file
 -------------------------------

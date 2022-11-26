@@ -1,9 +1,20 @@
 #!/bin/bash
-read password
-case $password in
- pass)
-	cd .1 Opened_Path
-	;;
- *)
-	;;
- esac
+if [ -f Key ]
+ then
+	read HeadPass
+	case $HeadPass in
+		Nerus)
+			read TailPass
+			case $TailPass in
+				Pyurlr)
+					cp -a .1 1
+					rm Key
+					;;
+				*)
+					;;
+			esac
+			;;
+		*)
+			;;
+	esac
+ fi

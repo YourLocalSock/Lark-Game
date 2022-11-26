@@ -1,10 +1,10 @@
 #!/bin/bash
-read password
-case $password in
- Pass1)
+read pass1
+case $pass1 in
+ Tatyalao)
 	read pass2
 	case $pass2 in
-	 Pass2)
+	 Kalafirifier)
 		cp -a .1 1
 		;;
 	 *)

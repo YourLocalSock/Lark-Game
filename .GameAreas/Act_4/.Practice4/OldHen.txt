@@ -1,0 +1,6 @@
+------------------------------------
+Old Hen's dialogue
+
+Use "grep [word] [file]" to look for the word "tatali" in the file
+Remember, the command is case sensitive
+------------------------------------

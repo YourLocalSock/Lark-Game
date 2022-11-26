@@ -1,8 +1,10 @@
 #!/bin/bash
-if [ -f File1 ]
+if [ -f Key ]
  then
-	if [ -f SharpednedStone ]
+	if [ -f SharpenedStone ]
 	 then
 		cp -a .1 Next_Room
+		rm SharpenedStone
+		rm Key
 	 fi
  fi

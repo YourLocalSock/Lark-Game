@@ -1,7 +1,7 @@
 #!/bin/bash
 read pass
 case $pass in
- pass)
+ 23)
 	cp -a .1 1
 	;;
  *)

@@ -4,7 +4,7 @@ echo "Enter password:"
 
 read pass
 case $pass in
- pass)
+ altaro)
 	cp -a .1 1
 	;;
  *)

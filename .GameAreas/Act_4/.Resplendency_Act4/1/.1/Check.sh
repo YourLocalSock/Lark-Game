@@ -1,16 +1,19 @@
 #!/bin/bash
-read password
-case $password in
- password1)
-	read pass
-	case $pass in
-	 password2)
-		cp -a .1 1
-		;;
-	 *)
-		;;
+if [ -f PowerCell ]
+ then
+	read password
+	case $password in
+		ergaan)
+			read pass
+			case $pass in
+				8)
+					cp -a .1 1
+					;;
+	 			*)
+					;;
+				esac
+				;;
+		*)
+			;;
 	esac
-	;;
- *)
-	;;
-esac
+fi

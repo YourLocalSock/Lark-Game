@@ -4,5 +4,7 @@ if [ -f AlteredFileA ]
 	if [ -f AlteredFileB ]
 	 then
 		cp -a .1 Exit
+		rm AlteredFileA
+		rm AlteredFileB
 	 fi
  fi

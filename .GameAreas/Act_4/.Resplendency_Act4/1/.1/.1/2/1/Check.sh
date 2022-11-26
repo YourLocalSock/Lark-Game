@@ -1,8 +1,8 @@
 #!/bin/bash
 read pass
 case $pass in
- password)
-	cp .1 Exit
+ 17)
+	cp -a .1 Exit
 	;;
  *)
 	;;

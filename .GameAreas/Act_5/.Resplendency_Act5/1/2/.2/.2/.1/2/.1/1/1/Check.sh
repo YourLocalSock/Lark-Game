@@ -2,13 +2,13 @@
 
 read pass1
 case $pass1 in
- p1)
+ Jakala)
 	read pass2
 	case $pass2 in
-	 p2)
+	 Eliatty)
 		read pass3
 		case $pass3 in
-		 p3)
+		 zwyvam)
 			cp .1 1
 			;;
 		 *)

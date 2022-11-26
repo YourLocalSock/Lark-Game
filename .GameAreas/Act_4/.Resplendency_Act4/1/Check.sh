@@ -1,17 +1,10 @@
 #!/bin/bash
-if [ -f AlteredFile1 ]
+if [ -f PowerCell ]
  then
 	read pass
 	case $pass in
-		pass1)
-			read password
-			case $password in
-				pass2)
-					cp -a .1 1
-					;;
-				*)
-					;;
-			esac
+		auaufas)
+			cp -a .1 1
 			;;
 		*)
 			;;
