@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ -f EditedFile ]
+if [ -f ArcaneRune ]
  then
 	cp -a .1 1
  fi

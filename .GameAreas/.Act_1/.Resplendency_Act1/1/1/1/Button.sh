@@ -3,4 +3,4 @@ echo "--------------------------"
 echo "A sound echoes somewhere nearby"
 echo "--------------------------"
 
-chmod o+rx ../../2/2
+chmod o+rx ../../2/2/1

@@ -11,7 +11,9 @@ read response
 case $response in
 	[Y]|[y])
 		echo "Okay here we go."
-		cd ../../../.Resplendency_Act1
+		cd ../../../
+		cp -a .Resplendency_Act1 Resplendency_Act1
+		cd Resplendency_Act1
 		echo "You have entered the Resplendency"
 		echo "You have 15 moves to reach the end"
 		;;

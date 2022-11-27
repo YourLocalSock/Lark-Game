@@ -5,8 +5,10 @@ read response
 
 case $response in
 	[Y]|[y])
-		cp -a ../../.Resplendency_Act2 ../../Resplendency_Act2
-		cd ../../Resplendency_Act2
+		cd ../../
+		cp -a .Resplendency_Act2 Resplendency_Act2
+		chmod o+rx Resplendency_Act2
+		cd Resplendency_Act2
 		;;
 	[A-X]|[Z]|[a-x]|[z]|[1-0]|*)
 		;;

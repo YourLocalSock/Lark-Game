@@ -1,10 +1,11 @@
 #!/bin/bash
-if [ -f AlteredFileA ]
+if [ -f Feather ]
  then
-	if [ -f AlteredFileB ]
+	if [ -f Flame ]
 	 then
 		cp -a .1 Exit
-		rm AlteredFileA
-		rm AlteredFileB
+		chmod o+rx Exit
+		rm Feather
+		rm Flame
 	 fi
  fi

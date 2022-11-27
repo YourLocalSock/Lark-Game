@@ -6,7 +6,8 @@ Ordinaruly she would have been returned the way she came, but the portals are cl
 He gives her the Dragonfly that had brought her here, named Irifeir.
 Stridula the leaves her to find her own way out.
 ------------------------------------------------"
-
-mv .StridulasWeb StridulasWeb
-chmod o+rx StridulasWeb
+cp -a .StridulasWeb StridulasWeb
 cd StridulasWeb
+
+#mv .StridulasWeb StridulasWeb
+#cd StridulasWeb

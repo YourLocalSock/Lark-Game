@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -a ../.2 ../2
+chmod o+rx ../2
