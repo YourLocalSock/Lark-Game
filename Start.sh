@@ -32,6 +32,10 @@ rm .GameAreas/Act_5/Sanctuary1 2>/dev/null
 rm .GameAreas/Act_5/Resplendency_Act5 2>/dev/null
 
 #use . ./Start.sh
-cd .GameAreas/Act_1
+cd .GameAreas
+cp -a .Act_1 Act_1
+chmod o+rx Act_1
+cd Act_1
 cp -a .StartingArea StartingArea
+chmod o+rx StartingArea
 cd StartingArea/Unknown
