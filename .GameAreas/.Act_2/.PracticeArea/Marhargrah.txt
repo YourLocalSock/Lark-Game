@@ -1,6 +1,8 @@
 ----------------------------------
 Marhargarh talking about how to use the mv command
 
-Type in "mv [file] [directory]" to move a file to a new location. ".." counts as a directory
+Type in "mv [file] [directory]" to move a file to a new location.
+Typing in "mv [file] .." will move the file back a directory. This also works with cd.
+You may any number of "/.." to the above statement to move the file back farther. This also works with cd.
 Type in "mv [file] [name]" to change the name of a file
 ----------------------------------

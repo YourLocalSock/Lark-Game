@@ -32,5 +32,4 @@ echo "----------------------------------"
 #change directories into the second practice area
 cd ../../../../../../../../
 cp -a .PracticeArea PracticeArea
-chmod o+rx PracticeArea
 cd PracticeArea

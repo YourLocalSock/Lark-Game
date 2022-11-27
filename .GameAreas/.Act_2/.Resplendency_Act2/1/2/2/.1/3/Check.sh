@@ -7,5 +7,6 @@ if [ -f Feather ]
 		chmod o+rx Exit
 		rm Feather
 		rm Flame
+		echo "The door opens"
 	 fi
  fi

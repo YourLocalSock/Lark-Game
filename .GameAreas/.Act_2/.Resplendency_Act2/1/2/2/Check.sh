@@ -1,4 +1,4 @@
-#!/bin/bash
+#/bin/bash
 if [ -f Key ]
  then
 	if [ -f SharpenedStone ]
@@ -7,5 +7,6 @@ if [ -f Key ]
 		chmod o+rx Next_Room
 		rm SharpenedStone
 		rm Key
+		echo "The door opens."
 	 fi
  fi
