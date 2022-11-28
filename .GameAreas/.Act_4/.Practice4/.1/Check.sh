@@ -1,9 +1,13 @@
 #!/bin/bash
-read pass
+echo "----------------------------"
+read -p "Enter password: " pass
 case $pass in
  23)
-	cp -a .1 1
+	echo "Creating path"
+	cp -a .1 path
 	;;
  *)
+	echo "Incorrect password"
 	;;
 esac
+echo "----------------------------"

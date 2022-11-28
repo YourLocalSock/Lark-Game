@@ -1,11 +1,20 @@
 #!/bin/bash
+echo "--------------------"
 if [ -f PowerCell ]
  then
-	read pass
+	read -p "Enter password: " pass
 	case $pass in
 		auaufas)
-			cp -a .1 1
+			echo "Creating path"
+			cp -a .1 path
+			echo "Error: Second machine unresponsive."
+			echo "Please replace machine 2's power core."
 			;;
 		*)
+			echo "Incorrect password"
 			;;
-esac
+	esac
+ else
+	echo "The machine is unresponsive..."
+fi
+echo "--------------------"

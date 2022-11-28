@@ -3,4 +3,4 @@ echo "-------------------------------------"
 echo "Dialogue with a voidwalker gives you file you need to search"
 echo "-------------------------------------"
 
-cp -a .HeadFile TopHeavyTool.txt
+cp -a .HeadFile TopHeavyTool

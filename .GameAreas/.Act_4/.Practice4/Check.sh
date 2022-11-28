@@ -1,13 +1,13 @@
 #!/bin/bash
 echo "---------------------------------------"
-echo "Enter password:"
-
-read pass
+read -p "Enter password: " pass
 case $pass in
  altaro)
-	cp -a .1 1
+	cp -a .1 path
+	echo "Creating path"
 	;;
  *)
+	echo "Incorrect password"
 	;;
 esac
 

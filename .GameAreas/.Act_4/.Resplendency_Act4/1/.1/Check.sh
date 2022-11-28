@@ -1,19 +1,27 @@
 #!/bin/bash
+echo "-------------------------------------"
 if [ -f PowerCell ]
  then
-	read password
+	read -p "Enter first password: " password
 	case $password in
 		ergaan)
-			read pass
+			read -p "Enter second password: " pass
 			case $pass in
 				8)
-					cp -a .1 1
+					echo "Creating path"
+					cp -a .1 path
 					;;
 	 			*)
+					echo "Incorrect password"
 					;;
 				esac
 				;;
 		*)
+			echo "Incorrect password"
 			;;
 	esac
+ else
+	echo "The machine is unresponsive..."
+
 fi
+echo "-------------------------------------"

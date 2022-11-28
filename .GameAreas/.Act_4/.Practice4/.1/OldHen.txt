@@ -1,5 +1,5 @@
 -------------------------------
 Old Hen explains how to use | wc -l with grep
 
-Use "grep [word] [file] | wc -l" to search for the number of times a word occurs in a file
+Use "grep [word] [file] | wc -l" to search for the number of times the word umbra occurs in a file
 -------------------------------
