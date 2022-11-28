@@ -1,4 +1,7 @@
 #!/bin/bash
-echo "-------------------------------"
-echo "Closing dialogue"
-echo "-------------------------------"
+
+echo "End of alpha release"
+
+# echo "-------------------------------"
+#echo "Closing dialogue"
+#echo "-------------------------------"
