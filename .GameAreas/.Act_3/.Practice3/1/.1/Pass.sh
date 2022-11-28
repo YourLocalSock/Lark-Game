@@ -1,9 +1,13 @@
 #!/bin/bash
-read password
+echo "-------------------------------"
+read -p "Enter the password: " password
 case $password in
- Case1)
+ Amaranth)
+	echo "Creating path"
 	cp -a .1 NextRoom
 	;;
  *)
+	echo "Incorrect password"
 	;;
  esac
+echo "-------------------------------"

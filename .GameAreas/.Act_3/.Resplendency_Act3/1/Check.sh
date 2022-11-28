@@ -1,20 +1,27 @@
 #!/bin/bash
+echo "------------------------------"
 if [ -f Key ]
  then
-	read HeadPass
+	read -p "Enter password: " HeadPass
 	case $HeadPass in
 		Nerus)
-			read TailPass
+			read -p "Enter password: " TailPass
 			case $TailPass in
 				Pyurlr)
-					cp -a .1 1
+					cp -a .1 path
+					echo "Creating Path"
 					rm Key
 					;;
 				*)
+					echo "Incorrect password"
 					;;
 			esac
 			;;
 		*)
+			echo "Incorrect password"
 			;;
 	esac
- fi
+ else
+	echo "Key not found"
+fi
+echo "---------------------------"

@@ -1,9 +1,11 @@
 #!/bin/bash
 
-if [ -f File ]
+if [ -f Key ]
  then
 	cp -a .1 Palace
-	#dialogue
+	echo "The palace door opens"
  else
-	#dialogue
- fi
+	echo "Irifeir: Donaktralda likes to be alone, but I know he keeps his key nearby."
+fi
+
+

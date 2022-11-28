@@ -13,26 +13,28 @@ echo "use cat to view files with a .txt extension."
 echo "--------------------------------------"
 
 #remove file from the start of the Resplendency_Act1 Dialogue
-rm .GameAreas/Act_1/StartingArea 2>/dev/null
-rm .GameAreas/Act_1/Sanctuary1 2>/dev/null
-rm .GameAreas/Act_1/Practice1 2>/dev/null
-rm .GameAreas/Act_1/Replendency_Act1 2>/dev/null
-rm .GameAreas/Act_2/Sanctuary2 2>/dev/null
-rm .GameAreas/Act_2/PracticeArea 2>/dev/null
-rm .GameAreas/Act_2/Resplendency_Act2 2>/dev/null
-rm .GameAreas/Act_3/Sanctuary3 2>/dev/null
-rm .GameAreas/Act_3/Practice3 2>/dev/null
-rm .GameAreas/Act_3/Resplendency_Act3 2>/dev/null
-rm .GameAreas/Act_4/Sanctuary4 2>/dev/null
-rm .GameAreas/Act_4/Practice4 2>/dev/null
-rm .GameAreas/Act_4/Resplendency_Act4 2>/dev/null
-rm .GameAreas/Act_5/Sanctuary5 2>/dev/null
-rm .GameAreas/Act_5/Practice5 2>/dev/null
-rm .GameAreas/Act_5/Sanctuary1 2>/dev/null
-rm .GameAreas/Act_5/Resplendency_Act5 2>/dev/null
+rm .GameAreas/.Act_1/StartingArea 2>/dev/null
+rm .GameAreas/.Act_1/Sanctuary1 2>/dev/null
+rm .GameAreas/.Act_1/Practice1 2>/dev/null
+rm .GameAreas/.Act_1/Replendency_Act1 2>/dev/null
+rm .GameAreas/.Act_2/Sanctuary2 2>/dev/null
+rm .GameAreas/.Act_2/PracticeArea 2>/dev/null
+rm .GameAreas/.Act_2/Resplendency_Act2 2>/dev/null
+rm .GameAreas/.Act_3/Sanctuary3 2>/dev/null
+rm .GameAreas/.Act_3/Practice3 2>/dev/null
+rm .GameAreas/.Act_3/Resplendency_Act3 2>/dev/null
+rm .GameAreas/.Act_4/Sanctuary4 2>/dev/null
+rm .GameAreas/.Act_4/Practice4 2>/dev/null
+rm .GameAreas/.Act_4/Resplendency_Act4 2>/dev/null
+rm .GameAreas/.Act_5/Sanctuary5 2>/dev/null
+rm .GameAreas/.Act_5/Practice5 2>/dev/null
+rm .GameAreas/.Act_5/Sanctuary1 2>/dev/null
+rm .GameAreas/.Act_5/Resplendency_Act5 2>/dev/null
 
 #use . ./Start.sh
-cd .GameAreas/.Act_1/.StartingArea/Unknown
+cd .GameAreas/.Act_1/
+cp -a .StartingArea StartingArea
+cd StartingArea/Unknown
 
 #cd .GameAreas
 #cp -a .Act_1 Act_1

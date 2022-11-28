@@ -1,0 +1,5 @@
+--------------------------------------
+Donaktralda telling you to use both head and tail for the next file
+
+Whenever you see a "DoubleWeightedTool", use head first and then tail to get both passwords
+--------------------------------------

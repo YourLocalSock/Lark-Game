@@ -2,4 +2,5 @@
 Dialogue explaining how Tail works
 
 Use "tail [file]" to view the last 10 lines of a file
+Use the tail command whenever you see a "BottomHeavyTool"
 ---------------------------------------
