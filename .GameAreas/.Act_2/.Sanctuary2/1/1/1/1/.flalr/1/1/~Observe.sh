@@ -31,5 +31,5 @@ echo "----------------------------------"
 
 #change directories into the second practice area
 cd ../../../../../../../../
-cp -a .PracticeArea PracticeArea
+cp -a .PracticeArea Practice2
 cd PracticeArea

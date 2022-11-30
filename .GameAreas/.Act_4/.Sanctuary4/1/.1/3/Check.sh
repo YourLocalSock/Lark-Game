@@ -5,6 +5,7 @@ case $pass1 in
 	read -p "Enter second password: " pass2
 	case $pass2 in
 	 Kalafirifier)
+		echo "Creating path"
 		cp -a .1 1
 		;;
 	 *)

@@ -8,8 +8,10 @@ case $pass1 in
 	 Eliatty)
 		read pass3
 		case $pass3 in
-		 zwyvam)
-			cp .1 1
+		 23)
+			echo "A new path for fate has been created."
+			cp -a ../../../../../../../../../../.Act_5_Directories/.2 path
+			#cp .1 1
 			;;
 		 *)
 			;;
