@@ -1,27 +1,23 @@
 #!/bin/bash
 
 #dialogue
-
-#echo "Witch is out gathering ingredients"
-#echo "Witch sees a dragonfly that she needs"
-#echo "Witch grabs dragonfly and it panics, sending them both into the Dark World"
 echo "--------------------------------------"
 echo "I woke up today with excitement."
 echo "This is almost it, I just need one more ingredient to finish my potion."
 echo "I leave my hut and take a deep breath of air."
 echo "Humid. Perfect. There will be dragonflies about right now."
-echo "The pond nearby will likely have large amounts of them, and that is where I go."
+echo "The pond nearby will likely have large amounts of them, and that is where shall I go."
 echo
 echo "Witch: cd pond"
 echo
-echo "When I reach the pond I look around. I do not see then dragonflies, but I do hear them."
+echo "When I reach the pond I look around. I do not see the dragonflies, but I do hear them."
 echo
 echo "Witch: ls"
 echo
 echo "As I say this incantation, the locations of these dragonflies are revealed to me."
-echo "I look for one with large wings, as those produce the most potent potion."
+echo "I look for one with large wings, as those produce the most potent effects."
 echo "Soon enough, I see my target. A dragonfly roughly the size of my forearm. Perfect."
-echo "I get into a position to grab my target, and say the spell."
+echo "I get into a position to grab my target, and recite the spell."
 echo
 echo "Witch: cd DRAGONFLY"
 echo
@@ -55,9 +51,3 @@ rm .GameAreas/.Act_5/Resplendency_Act5 2>/dev/null
 cd .GameAreas/.Act_1/
 cp -a .StartingArea StartingArea
 cd StartingArea/Unknown
-
-#cd .GameAreas
-#cp -a .Act_1 Act_1
-#cd Act_1
-#cp -a .StartingArea StartingArea
-#cd StartingArea/Unknown
