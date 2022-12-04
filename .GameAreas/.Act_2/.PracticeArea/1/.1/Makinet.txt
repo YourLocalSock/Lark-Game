@@ -1,0 +1,12 @@
+---------------------------------------
+Makinet bouces excitedly as the path opens.
+
+Makinet: Oh wow. That's great. You learn so fast.
+Makinet: It usually takes one of us several years to get past the first part of this trial.
+Makinet: Now it is time for the second part.
+Makinet: Around us are three rooms.
+Makinet: Two of which include the items that you need to open the path ahead.
+Makinet: You need to utilize mv and cd, but with ..
+Makinet: You can use the .. in conjunction with other .. to move back farther.
+Makinet: For instance, you can use mv File ../../.. to move a file back three directories.
+----------------------------------------

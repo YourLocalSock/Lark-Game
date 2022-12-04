@@ -1,0 +1,11 @@
+----------------------------------
+Makinet: Okay, so the functions of the mv spell are very simple.
+Makinet: It allows you to move objects with just a word.
+
+Makinet walks towards one of the walls and gestures to the jewel situated upon it.
+
+Just use the mv command to move this jewel into the next room and turn it into an ArcaneRune in order to open a safe path downwards.
+===============================================================================================
+Type in "mv [file] [directory]" to move a file to a new location.
+Type in "mv [file] [name]" to change the name of a file
+----------------------------------

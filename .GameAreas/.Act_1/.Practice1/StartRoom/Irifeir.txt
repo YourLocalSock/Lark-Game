@@ -1,8 +1,14 @@
 --------------------------------------------
-///////////
+The first room in Irifeir's nest is slightly more decorated, with more webs being spun along the walls.
+Before me are five holes and, since there is no web for the entrance, I assume are hallways as Irifier's kind can fly.
+Irifeir perches on my shoulder, and begins to speak.
 
-Irifeir: I want you to use ls -l to determine the path to the center.
-Irifeir: It will show you all locations around you, but you will also see some symbols resembling r w and x.
-Irifeir: I want you to focus on the last three of them.
+Irifeir: In order to get to Marhargrah's home, we need to pass through an area known as the Resplendency.
+Irifeir: We of the Dark go there normally to cleanse ourselves of the light after we enter your world.
+Irifeir: However, as you have already experienced, you will not survive a stay of significant length within it.
+Irifeir: So I thought to teach you an extension to one of your spells to be safe.
+Irifeir: This spell is ls -l and I want you to use it to determine the path to the center of my nest.
+Irifeir: It will show you all locations around you, but in the right corner of your vision, you will also see some symbols resembling r, w, x, and -.
+Irifeir: I want you to focus on the last three in the line.
 Irifeir: If it does not have r and x in it, it is unsafe for you to cross.
 --------------------------------------------
