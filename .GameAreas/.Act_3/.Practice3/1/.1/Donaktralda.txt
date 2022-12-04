@@ -1,5 +1,6 @@
 ---------------------------------------
-Dialogue explaining how Tail works
+Donaktralda: The second that you will need is tail.
+Donaktralda: It is the same as teh first, but will allow you to look through the last 10, unlike head.
 
 Use "tail [file]" to view the last 10 lines of a file
 Use the tail command whenever you see a "BottomHeavyTool"

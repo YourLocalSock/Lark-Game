@@ -1,5 +1,11 @@
 -------------------------------
-Dialogue from Donaktralda telling the player how to use the Head Command
+Donaktralda leads us through the palace halls. Even still, none of it is decorated, much less lit up.
+
+Donaktralda: Narackaj, the Archivist, would like for you to search for information before you enter his lair.
+Donaktralda: There are three spells that will do this for you.
+Donaktralda: However, I can only teach you two.
+Donaktralda: The first is head, which will only allow you to look through the first ten lines of a file.
+Donaktralda: I'm sure that you know what to do from here.
 
 Use "head [file]" to look at the first 10 lines of a file
 Use the head command whenever you see a "TopHeavyTool"
