@@ -1,6 +1,6 @@
 -----------------------------
-Old Hen tells you to put the two together without his help
-
-Files using grep are stylized "keyword_G"
-File using the grep pipeline are stylized "keyword_P"
+Old Hen: Very good, now I want you to remember the syntax of our archive labels.
+Old Hen: Files using grep are stylized "keyword_G"
+Old Hen: File using the grep pipeline are stylized "keyword_P"
+Old Hen: Now go and apply the concepts using what you have learned.
 -----------------------------

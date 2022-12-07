@@ -1,6 +1,12 @@
 ------------------------------------
-Old Hen's dialogue
+Old Hen: Now I should warn you before I start to teach you.
+Old Hen: The path we will be taking will lead us directly into the Replendency.
+Old Hen: If you have anything that you left unfinished or forget, you may turn back now.
 
-Use "grep [word] [file]" to look for the word "tatali" in the file
-Remember, the command is case sensitive
+We wait for a few seconds, and when neither of us move, Old Hen continues again.
+
+Old Hen: The first spell we will need you to learn is "grep".
+Old Hen: This spell allows you to search for a word in any one of our archives.
+Old Hen: As practcie, use "grep [word] [file]" to look for the word "tatali" in the file
+Old Hen: Remember, the command is case sensitive
 ------------------------------------

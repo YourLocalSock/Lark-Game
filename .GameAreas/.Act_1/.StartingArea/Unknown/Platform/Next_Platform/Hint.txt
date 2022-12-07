@@ -1,4 +1,4 @@
 -------------------------------------
-Use "./" to activate any scripts (Green Text)
-Use ". ./" to utilize any scripts that start with ~
+Use "./" to activate any scripts (end in .sh)
+Use "source ./" to utilize any scripts that start with ~
 -------------------------------------

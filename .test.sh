@@ -1,6 +1,6 @@
 #!/bin/bash
 count=0
-while [ $count -lt 16 ]; do
+while [ $count -le 5 ]; do
 	read input
 	if [[ $input != "endScript.sh" ]]; then
 		let count++
@@ -10,6 +10,6 @@ while [ $count -lt 16 ]; do
  fi
 done
 
-if [ $count -ge 15 ]; then
+if [ $count -gt 5 ]; then
 	echo "Game Over"
 fi

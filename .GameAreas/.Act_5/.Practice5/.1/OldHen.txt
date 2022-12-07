@@ -1,0 +1,5 @@
+---------------------------------------
+Old Hen: Now, when you see that you cannot access an area, use chmod to allow yourself to access it.
+Old Hen: Bear in mind that you must be the owner of the file or directory to change it.
+Old Hen: Although it seems that Perspe has already granted you the rights to do so here.
+---------------------------------------

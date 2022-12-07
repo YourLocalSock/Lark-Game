@@ -1,0 +1,5 @@
+----------------------------------
+Old Hen: The lines make their home in hidden passages.
+Old Hen: They are so well hidden that you must use ls -a to see them.
+Old Hen: Try to practice using ls -la in order to save as much time as possible.
+----------------------------------

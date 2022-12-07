@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "-------------------------------------"
-echo "Dialogue with the defeat of Crash"
+echo "Witch: Is that it?"
+echo "Irifeir: Yes, that should be all."
+echo "Irifeir: Quick, we must get out of here."
 echo "-------------------------------------"
 
 cd ../../../../../../../../../../../../../
