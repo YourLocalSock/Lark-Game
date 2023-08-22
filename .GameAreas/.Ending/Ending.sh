@@ -6,7 +6,7 @@ echo "-------------------------------"
 echo "We turn back to find Marhargrah's eye in front of us."
 echo "The tendril extends to engulf us into itself."
 echo "She brings us over to the other Spawners, who have Crash tighthly bound with light."
-echo "Soon Crash Crash starts to transform from its humanoid shape, to a small blank tablet."
+echo "Soon Crash starts to transform from its humanoid shape, to a small blank tablet."
 echo 
 echo "Perspe: And with that, Crash should no longer prove to be any more of a threat."
 echo "Perspe: I must thank you for your proactiveness Irifeir."
